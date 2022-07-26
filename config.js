@@ -1,5 +1,5 @@
 module.exports = {
-TOKEN: '', //write your discord bot token
+TOKEN: 'NzQ2MDY0Mjg0NDYyNzQzNjIz.G3mNda.LJHytseG6EHvCC5M7PTqTflx_xtfaEy5j3oI0s', //write your discord bot token
 status: '❤️ Umut Bayraktar', 
 commandsDir: './commands', //Please don't touch
         
